@@ -121,3 +121,12 @@
     @apply bg-background text-foreground;
   }
 }
+
+
+
+
+@layer utilities {
+  .bg-theme {
+    @apply bg-mybackground dark:bg-mybackground_dark ;
+  }
+}
