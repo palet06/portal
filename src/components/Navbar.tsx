@@ -15,7 +15,7 @@ const Navbar = () => {
         <DropdownMenu>
           <DropdownMenuTrigger className="flex gap-2 items-center cursor-pointer outline-0 bg-myprimary-button dark:bg-myprimary-button_dark text-white dark:text-mybodytext_dark  p-2 rounded-sm">
             <House className="size-4" />
-            Genel Görünüm
+           Anasayfa
           </DropdownMenuTrigger>
         </DropdownMenu>
 
